@@ -46,7 +46,6 @@ end
   end
   
   def self.create 
-    sql = <<-SQL 
     
 
 end
